@@ -1,0 +1,24 @@
+# FROM ubuntu:latest
+# FROM selenium/node-chrome-debug:3.141.59-titanium
+FROM selenium/standalone-chrome:3.141.59-xenon
+USER root
+
+RUN apt-get update
+RUN apt-get install -y python3
+RUN apt-get install -y python3-pip
+RUN apt-get install -y git
+
+RUN apt-get install -y curl imagemagick
+
+RUN curl -sL https://deb.nodesource.com/setup_8.x -o nodesource_setup.sh
+
+RUN apt-get install -y nodejs
+RUN apt-get install -y build-essential
+RUN apt-get install -y npm
+RUN node
+
+COPY ./requirements.txt /tmp/requirements.txt
+
+RUN pip3 install -r /tmp/requirements.txt
+WORKDIR /home/web/
+USER seluser

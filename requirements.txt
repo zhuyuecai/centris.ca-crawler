@@ -1,0 +1,10 @@
+Pillow
+psycopg2-binary
+django
+requests_html
+requests
+beautifulsoup4
+selenium
+pandas
+numpy
+lxml

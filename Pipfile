@@ -1,0 +1,21 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+psycopg2-binary = "*"
+requests-html = "*"
+requests = "*"
+beautifulsoup4 = "*"
+selenium = "*"
+pandas = "*"
+numpy = "*"
+lxml = "*"
+Pillow = "*"
+Django = "*"
+
+[requires]
+python_version = "3.7"

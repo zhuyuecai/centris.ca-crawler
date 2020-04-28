@@ -1,0 +1,35 @@
+version: '3.7'
+
+services:
+    selenium-hub:
+        image: selenium/hub
+        ports:
+          - 4444:4444
+        environment:
+            - GRID_MAX_SESSION=8000
+            - GRID_TIMEOUT=0
+            - GRID_THROW_ON_CAPABILITY_NOT_PRESENT=true
+            - GRID_NEW_SESSION_WAIT_TIMEOUT=-1
+            - GRID_BROWSER_TIMEOUT=15000
+            - GRID_TIMEOUT=30000
+            - GRID_CLEAN_UP_CYCLE=30000
+    chrome:
+        image: selenium/node-chrome-debug:latest
+        volumes:
+          - /dev/shm:/dev/shm
+        depends_on:
+          - selenium-hub
+        environment:
+            - HUB_HOST=selenium-hub
+    runner:
+        build:
+          dockerfile: Dockerfile-chrome
+          context: .
+              
+        volumes:
+            - .:/home/web
+        command: bash -c "sleep 5; python3 /home/web/centris.py"
+        depends_on:
+          - chrome
+        ports:
+            - 8000:8000
