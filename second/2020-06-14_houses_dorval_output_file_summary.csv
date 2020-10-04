@@ -1,0 +1,16 @@
+small region,bedroom,year,avg_price,total
+dorval,3,30 less,550000.0,1
+dorval,3,30 more,654399.8,5
+dorval,3,5 less,599900.0,1
+dorval,4,10 less,625000.0,2
+dorval,4,30 less,1166500.0,2
+dorval,4,30 more,1135025.0,12
+dorval,4,5 less,2215159.0,2
+dorval,5,10 less,699000.0,1
+dorval,5,20 less,1629000.0,3
+dorval,5,30 less,1172450.0,2
+dorval,5,30 more,944000.0,4
+dorval,5,5 less,1995000.0,1
+dorval,6,10 less,1348800.0,1
+dorval,6,30 less,7896000.0,1
+dorval,6,30 more,1138000.0,3

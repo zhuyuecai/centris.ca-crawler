@@ -1,0 +1,15 @@
+small region,bedroom,year,avg_price,total
+mont-royal,-1,10 less,349000.0,1
+mont-royal,-1,30 more,355300.0,8
+mont-royal,-1,5 less,359000.0,2
+mont-royal,2,10 less,557571.4285714285,7
+mont-royal,2,30 more,649500.0,2
+mont-royal,2,5 less,589258.4,10
+mont-royal,3,10 less,1595000.0,1
+mont-royal,3,20 less,752500.0,2
+mont-royal,3,30 less,1234000.0,1
+mont-royal,3,30 more,759000.0,1
+mont-royal,3,5 less,1349000.0,1
+mont-royal,4,10 less,1868000.0,1
+mont-royal,4,30 more,781500.0,2
+mont-royal,5,20 less,1024000.0,2

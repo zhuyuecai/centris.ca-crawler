@@ -1,0 +1,12 @@
+small region,bedroom,year,avg_price,total
+montreal-lachine,2,30 less,429000.0,2
+montreal-lachine,2,30 more,284975.0,8
+montreal-lachine,3,20 less,525000.0,3
+montreal-lachine,3,30 more,569931.25,16
+montreal-lachine,3,5 less,1036333.3333333334,3
+montreal-lachine,4,30 more,744857.1428571428,7
+montreal-lachine,4,5 less,799000.0,2
+montreal-lachine,5,30 more,831900.0,2
+montreal-lachine,5,5 less,599000.0,1
+montreal-lachine,6,30 more,709000.0,2
+montreal-lachine,7,30 more,2399000.0,1

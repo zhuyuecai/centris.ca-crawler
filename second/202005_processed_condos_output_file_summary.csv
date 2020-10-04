@@ -1,0 +1,447 @@
+small region,bedroom,year,avg_price,total
+ Agglomération de Montréal,-1,5 less,558000.0,1
+ Agglomération de Montréal,2,30 more,440438.5,2
+ Agglomération de Montréal,2,5 less,450000.0,1
+ Agglomération de Montréal,3,10 less,489800.0,1
+ Agglomération de Montréal,3,30 more,498000.0,4
+ Ahuntsic,2,30 more,398000.0,1
+ Ahuntsic,5,30 more,779000.0,1
+ Ahuntsic-Cartierville,4,30 more,549700.0,1
+ Anjou,2,30 less,244900.0,1
+ Anjou,2,30 more,269000.0,1
+ Arrondissement de Lachine,-1,30 more,240536.0,1
+ Arrondissement de Lachine,3,30 more,499000.0,1
+ Arrondissement de Lachine,4,5 less,799000.0,1
+ Avenue De Lorimier,4,30 more,870000.0,1
+ Bassins du Nouveau Havre,-1,5 less,398000.0,2
+ Bassins du Nouveau Havre,2,10 less,668000.0,1
+ Bassins du Nouveau Havre,2,30 more,770600.0,3
+ Bassins du Nouveau Havre,2,5 less,624450.0,2
+ Bassins du Nouveau Havre,3,30 more,838000.0,1
+ Beaconsfield,-1,30 more,283740.0,2
+ Beaconsfield,2,30 more,465964.0,5
+ Beaconsfield,3,30 more,723150.0,1
+ Bellerive,-1,10 less,205000.0,1
+ Bellerive,2,10 less,279000.0,1
+ Bois-Francs,2,10 less,508900.0,2
+ Bois-Francs,2,20 less,504000.0,2
+ Bois-Francs,3,20 less,673000.0,1
+ Carré Lucerne,2,10 less,629000.0,2
+ Cartierville,-1,30 more,219000.0,1
+ Cartierville,2,30 more,164000.0,1
+ Cartierville,3,30 less,365000.0,1
+ Cartierville,3,30 more,319000.0,1
+ Cecil-P.-Newman,2,20 less,329000.0,1
+ Cecil-P.-Newman,3,30 less,479900.0,1
+ Centre-Nord,2,10 less,223700.0,2
+ Centre-Nord,2,30 more,357633.3333333333,3
+ Centre-Nord,3,30 more,349000.0,1
+ Chameran,-1,10 less,239900.0,1
+ Chameran,-1,5 less,265000.0,1
+ Chameran,2,10 less,349633.3333333333,3
+ Chameran,2,30 less,279000.0,1
+ Chameran,2,30 more,264000.0,2
+ Chameran,3,30 less,398000.0,1
+ Chameran/Montpellier,-1,20 less,249000.0,1
+ Chameran/Montpellier,2,10 less,384500.0,2
+ Chameran/Montpellier,2,20 less,324000.0,1
+ Chameran/Montpellier,2,30 less,767000.0,1
+ Chameran/Montpellier,2,30 more,334900.0,1
+ Chameran/Montpellier,3,30 less,757666.6666666666,3
+ Chameran/Montpellier,3,30 more,399000.0,1
+ Crémazie,2,10 less,349900.0,1
+ Crémazie,2,30 more,375000.0,1
+ Côte-Saint-Antoine,-1,10 less,579000.0,1
+ Côte-Saint-Antoine,-1,30 more,415000.0,1
+ Côte-Saint-Antoine,2,20 less,410000.0,1
+ Côte-Saint-Antoine,2,30 more,1450000.0,1
+ Côte-Saint-Antoine,3,30 more,728609.7142857143,7
+ Côte-Saint-Luc,-1,20 less,410000.0,1
+ Côte-Saint-Luc,2,20 less,550000.0,1
+ Côte-Saint-Luc,2,30 more,430666.6666666667,3
+ Côte-Saint-Luc,3,30 more,564200.0,5
+ Côte-Saint-Luc,4,30 more,572500.0,2
+ Côte-Saint-Luc,5,5 less,749000.0,1
+ Côte-Saint-Paul,2,20 less,369000.0,1
+ Côte-Saint-Paul,2,30 more,364900.0,1
+ Côte-Saint-Paul,2,5 less,335000.0,1
+ Côte-des-Neiges–Notre-Dame-de-Grâce,-1,30 more,339000.0,1
+ Côte-des-Neiges–Notre-Dame-de-Grâce,2,30 more,384000.0,2
+ Côte-des-Neiges–Notre-Dame-de-Grâce,3,10 less,797000.0,1
+ Desmarchais-Crawford,2,30 more,429000.0,1
+ Desmarchais-Crawford,3,20 less,424900.0,1
+ Desmarchais-Crawford,3,30 more,599000.0,1
+ Dollard-Des-Ormeaux,2,10 less,499000.0,1
+ Dollard-Des-Ormeaux,2,30 more,493868.8,5
+ Dollard-Des-Ormeaux,3,30 more,349900.0,1
+ Dollard-Des-Ormeaux,4,30 more,359000.0,1
+ Dorval,2,10 less,420000.0,1
+ Dorval,2,30 more,374473.0,1
+ Du Collège/Hodge,2,20 less,403422.0,4
+ Du Collège/Hodge,3,10 less,549000.0,1
+ Du Collège/Hodge,5,30 more,888000.0,1
+ Dupéré,3,10 less,422000.0,2
+ Espace Affaires Rosemont,2,10 less,449000.0,1
+ Espace Affaires Rosemont,2,30 more,345400.0,2
+ François-Perrault,2,10 less,234900.0,2
+ Grande-Prairie,2,20 less,249000.0,1
+ Grande-Prairie,3,20 less,449000.0,1
+ Griffintown,-1,10 less,437900.0,6
+ Griffintown,-1,20 less,399900.0,1
+ Griffintown,-1,30 more,2098000.0,1
+ Griffintown,-1,5 less,449450.0,2
+ Griffintown,2,10 less,705966.6666666666,3
+ Griffintown,2,20 less,444000.0,2
+ Griffintown,2,30 more,700000.0,1
+ Griffintown,2,5 less,800668.3333333334,6
+ Griffintown,3,30 more,1120000.0,1
+ Griffintown,3,5 less,725000.0,1
+ Griffintown,4,20 less,890000.0,1
+ Habitations Jeanne-Mance,-1,10 less,398950.0,2
+ Habitations Jeanne-Mance,2,20 less,349000.0,1
+ Hampstead,3,20 less,689000.0,1
+ Hochelaga,-1,20 less,329000.0,1
+ Hochelaga,-1,30 more,415309.0,2
+ Hochelaga,2,10 less,279000.0,1
+ Hochelaga,3,30 more,433999.0,1
+ Jardin De la Mennais,3,30 more,1338000.0,1
+ Jardin communautaire Étienne-Desmarteau,3,30 more,534000.0,1
+ Jardins communautaires Saint-Sulpice,-1,30 more,294000.0,1
+ Jardins communautaires Saint-Sulpice,2,30 more,440000.0,1
+ Jardins communautaires Saint-Sulpice,3,30 more,415000.0,1
+ La Cité du Multimédia,2,20 less,495000.0,1
+ La Cité du Multimédia,2,5 less,985000.0,1
+ LaSalle,-1,5 less,287500.0,2
+ LaSalle,2,30 less,399000.0,1
+ LaSalle,2,30 more,527000.0,1
+ LaSalle,3,10 less,502000.0,2
+ LaSalle,3,30 more,499430.0,1
+ Lachine-Ouest,-1,20 less,280000.0,1
+ Lachine-Ouest,-1,30 more,224000.0,2
+ Lachine-Ouest,2,20 less,324900.0,1
+ Lachine-Ouest,2,30 more,259000.0,1
+ Longue-Pointe,2,20 less,310666.6666666667,3
+ Longue-Pointe,2,30 more,450000.0,1
+ Lorimier,2,30 more,279000.0,1
+ Louis-Hébert,3,30 more,499500.0,1
+ Louis-Hébert,4,30 more,1249000.0,1
+ Louis-Riel,2,30 more,339000.0,1
+ Loyola,-1,20 less,192000.0,1
+ Loyola,-1,30 more,196000.0,1
+ Loyola,2,20 less,349000.0,1
+ Loyola,2,30 more,303300.0,2
+ Loyola,3,30 more,458633.3333333333,3
+ Loyola,4,30 more,399000.0,1
+ Maisonneuve,-1,20 less,299000.0,1
+ Maisonneuve,-1,30 more,253100.0,10
+ Marc-Aurèle-Fortin,2,30 less,249000.0,1
+ Marc-Aurèle-Fortin,2,30 more,239350.0,2
+ Marc-Aurèle-Fortin,2,5 less,489000.0,1
+ Marc-Aurèle-Fortin,3,20 less,176000.0,1
+ Marc-Aurèle-Fortin,3,30 more,479900.0,1
+ Marie-Victorin,-1,30 more,289000.0,1
+ Marie-Victorin,2,10 less,422450.0,2
+ Marie-Victorin,2,30 less,599000.0,1
+ Mile End,-1,20 less,550000.0,1
+ Mile End,-1,30 less,514000.0,1
+ Mile End,-1,30 more,825000.0,1
+ Mile End,2,30 less,447000.0,2
+ Mile End,2,30 more,499000.0,1
+ Mile End,3,30 more,890000.0,2
+ Milton Parc,-1,5 less,505000.0,1
+ Milton Parc,2,30 more,539000.0,1
+ Milton Parc,2,5 less,468000.0,1
+ Milton-Parc,-1,30 more,289000.0,1
+ Milton-Parc,2,30 more,519000.0,1
+ Milton-Parc,3,30 more,586750.0,2
+ Mont-Royal,-1,10 less,595000.0,1
+ Mont-Royal,-1,30 more,360000.0,1
+ Mont-Royal,2,30 more,429000.0,1
+ Mont-Royal,3,20 less,699000.0,1
+ Montagne,-1,10 less,399237.5,4
+ Montagne,-1,30 less,369000.0,1
+ Montagne,-1,30 more,348687.25,4
+ Montagne,-1,5 less,488900.0,1
+ Montagne,2,10 less,1055671.4285714286,7
+ Montagne,2,20 less,1103250.0,4
+ Montagne,2,30 less,507000.0,2
+ Montagne,2,30 more,925916.6666666666,12
+ Montagne,2,5 less,698000.0,1
+ Montagne,3,30 more,2381660.0,10
+ Montagne,3,5 less,1098000.0,1
+ Montagne,4,30 more,2439000.0,2
+ Montagne,5,30 more,649000.0,2
+ Montagne,6,30 more,1450000.0,1
+ Montreal-Nord-Centre,-1,10 less,139000.0,1
+ Montreal-Nord-Centre,2,20 less,197500.0,1
+ Montreal-Nord-Ouest,2,20 less,359000.0,1
+ Montréal,-1,30 more,423016.6666666667,3
+ Montréal,-1,5 less,294800.0,6
+ Montréal,2,10 less,302000.0,2
+ Montréal,2,30 more,389000.0,2
+ Montréal,2,5 less,504249.75,4
+ Montréal,3,20 less,664000.0,1
+ Montréal,3,30 less,419000.0,1
+ Montréal,3,5 less,369000.0,1
+ Montréal (06),2,10 less,374000.0,1
+ Montréal-Est,2,5 less,458000.0,1
+ Nicolas-Viel,-1,30 more,284900.0,1
+ Nicolas-Viel,2,30 more,364120.0,5
+ Nicolas-Viel,3,30 more,434900.0,1
+ Nouveau-Bordeau,2,10 less,342450.0,2
+ Nouveau-Bordeau,2,5 less,359000.0,1
+ Outremont,-1,30 more,429000.0,1
+ Outremont,2,30 more,1213366.0,5
+ Outremont,3,30 more,2176110.5454545454,11
+ Outremont,4,20 less,1189000.0,1
+ Outremont,4,30 more,674500.0,2
+ Outremont,5,30 more,885000.0,1
+ Parc-Jarry,-1,10 less,515000.0,1
+ Parc-Jarry,-1,30 more,419000.0,1
+ Parc-Jarry,-1,5 less,352381.0,1
+ Parc-Jarry,2,20 less,501950.0,2
+ Parc-Jarry,2,5 less,849000.0,1
+ Parc-Jarry,3,10 less,824000.0,1
+ Parc-Kent,-1,5 less,349000.0,1
+ Parc-Kent,2,10 less,560000.0,1
+ Parc-Kent,2,30 more,679000.0,1
+ Parc-Kent,2,5 less,770000.0,2
+ Parc-Kent,3,30 less,1249000.0,1
+ Parc-Kent,3,30 more,1100000.0,1
+ Parc-Kent,5,20 less,1074000.0,2
+ Parc-Lafontaine,-1,30 more,273500.0,2
+ Parc-Lafontaine,2,30 more,566500.0,2
+ Parc-Lafontaine,2,5 less,699000.0,1
+ Parc-Lafontaine,3,30 more,704000.0,2
+ Parc-Laurier,-1,10 less,448000.0,3
+ Parc-Laurier,-1,30 more,339500.0,2
+ Parc-Laurier,2,20 less,532000.0,2
+ Parc-Laurier,2,30 more,479333.3333333333,3
+ Petit Portugal,-1,5 less,299900.0,1
+ Petit Portugal,2,20 less,738000.0,1
+ Petit Portugal,2,30 less,480000.0,1
+ Petit Portugal,3,30 more,399000.0,1
+ Petite Italie,-1,30 more,409000.0,1
+ Petite Italie,3,20 less,799000.0,1
+ Petite Italie,3,30 more,799000.0,1
+ Petite-Bourgogne,-1,20 less,540000.0,1
+ Petite-Bourgogne,-1,30 more,353500.0,1
+ Petite-Bourgogne,2,20 less,449800.0,1
+ Petite-Bourgogne,2,30 more,522750.0,2
+ Petite-Bourgogne,3,20 less,659000.0,1
+ Petite-Côte,-1,30 more,349800.0,1
+ Petite-Côte,2,30 less,515000.0,1
+ Petite-Côte,2,30 more,430900.0,1
+ Petite-Côte,2,5 less,775000.0,1
+ Petite-Côte,3,20 less,729700.0,1
+ Petite-Côte,4,30 more,549800.0,1
+ Petite-Côte,5,20 less,1197700.0,1
+ Pierrefonds-Est/Roxboro,-1,10 less,229000.0,1
+ Pierrefonds-Est/Roxboro,2,20 less,324950.0,2
+ Pierrefonds-Est/Roxboro,2,30 less,334150.0,2
+ Pierrefonds-Est/Roxboro,2,30 more,230000.0,1
+ Pierrefonds-Est/Roxboro,3,30 more,334707.5,4
+ Pierrefonds-Ouest,2,10 less,219000.0,1
+ Pierrefonds-Ouest,2,20 less,199900.0,1
+ Pierrefonds-Ouest,2,30 less,259450.0,2
+ Pierrefonds-Ouest,3,20 less,309000.0,1
+ Pierrefonds-Ouest,3,30 less,269900.0,1
+ Pierrefonds-Ouest,3,30 more,541000.0,1
+ Pierrefonds-Ouest,4,30 more,456000.0,1
+ Plateau Mont-Royal,3,30 more,711966.6666666666,3
+ Plateau Mont-Royal,3,5 less,1112000.0,2
+ Plaza Saint-Hubert,-1,30 less,350000.0,1
+ Plaza Saint-Hubert,2,30 more,435000.0,1
+ Pointe-Claire,2,10 less,419000.0,1
+ Pointe-Claire,2,20 less,469900.0,1
+ Pointe-Saint-Charles,-1,20 less,599000.0,1
+ Pointe-Saint-Charles,-1,30 more,749000.0,1
+ Pointe-Saint-Charles,-1,5 less,615000.0,1
+ Pointe-Saint-Charles,2,10 less,399000.0,1
+ Pointe-Saint-Charles,2,20 less,308666.6666666667,3
+ Pointe-Saint-Charles,2,30 more,499000.0,2
+ Pointe-Saint-Charles,3,10 less,579000.0,1
+ Pointe-Saint-Charles,3,30 more,580611.0,3
+ Pointe-Saint-Charles,3,5 less,1450000.0,1
+ Pointe-aux-Trembles,-1,30 more,147000.0,1
+ Pointe-aux-Trembles,2,20 less,250000.0,1
+ Pointe-aux-Trembles,2,30 more,154900.0,1
+ Pointe-aux-Trembles,3,30 more,186000.0,1
+ Port-Maurice,-1,20 less,324000.0,1
+ Port-Maurice,2,20 less,339000.0,1
+ Port-Maurice,3,20 less,358000.0,1
+ Prince-Arthur,-1,30 more,359000.0,1
+ Prince-Arthur,2,30 more,1179000.0,1
+ Promenade Ontario,2,10 less,296500.0,2
+ Promenade Sainte-Catherine Est,-1,30 more,99500.0,2
+ Promenade Sainte-Catherine Est,2,10 less,349900.0,1
+ Promenade Sainte-Catherine Est,2,30 more,389500.0,1
+ Promenade Sainte-Catherine Est,3,10 less,419000.0,1
+ Promenade Sainte-Catherine Est,3,20 less,299999.0,1
+ Promenade Sainte-Catherine Est,3,5 less,495000.0,1
+ Préfontaine,2,20 less,403000.0,1
+ Préfontaine,3,10 less,389000.0,1
+ Père-Marquette,2,10 less,510000.0,1
+ Père-Marquette,2,30 more,405110.0,3
+ Père-Marquette,3,5 less,497000.0,1
+ Quartier Latin,-1,20 less,463000.0,1
+ Quartier Latin,-1,30 more,430000.0,1
+ Quartier international,-1,10 less,579000.0,1
+ Quartier international,-1,30 more,485140.1666666667,6
+ Quartier international,2,10 less,759000.0,1
+ Quartier international,2,20 less,750000.0,1
+ Quartier international,2,30 more,2032466.6666666667,6
+ Quartier international,3,10 less,3499000.0,1
+ Quartier international,3,30 more,3191975.0,4
+ René-Lévesque,-1,10 less,433642.85714285716,14
+ René-Lévesque,-1,20 less,340600.0,5
+ René-Lévesque,-1,30 less,369000.0,1
+ René-Lévesque,-1,30 more,432857.14285714284,7
+ René-Lévesque,-1,5 less,486520.07692307694,26
+ René-Lévesque,2,10 less,832500.0,12
+ René-Lévesque,2,30 more,631272.5,8
+ René-Lévesque,2,5 less,828077.1621621621,37
+ René-Lévesque,3,20 less,2979000.0,1
+ René-Lévesque,3,30 more,1741406.5,6
+ René-Lévesque,3,5 less,1423987.5,8
+ Rivière-des-Prairies,-1,30 less,174900.0,1
+ Rivière-des-Prairies,2,20 less,190500.0,1
+ Rivière-des-Prairies,3,30 less,374500.0,1
+ Rivière-des-Prairies–Pointe-aux-Trembles,-1,30 less,149900.0,2
+ Rivière-des-Prairies–Pointe-aux-Trembles,2,10 less,229450.0,2
+ Rivière-des-Prairies–Pointe-aux-Trembles,2,20 less,195566.66666666666,3
+ Rivière-des-Prairies–Pointe-aux-Trembles,2,30 less,269900.0,1
+ Rivière-des-Prairies–Pointe-aux-Trembles,2,30 more,269175.0,4
+ Rivière-des-Prairies–Pointe-aux-Trembles,3,30 more,420566.6666666667,3
+ Rosemont–La Petite-Patrie,2,30 more,322900.0,1
+ Rue Dorion,3,30 more,469500.0,1
+ Rue du Port de Montréal,-1,30 more,655000.0,1
+ Saint-Henri,-1,20 less,411000.0,1
+ Saint-Henri,2,10 less,345000.0,1
+ Saint-Henri,2,20 less,488666.6666666667,3
+ Saint-Henri,2,30 more,604883.0,2
+ Saint-Henri,3,30 more,877358.0,2
+ Saint-Henri,4,30 more,474900.0,1
+ Saint-Laurent,2,20 less,398950.0,2
+ Saint-Laurent,2,30 more,352900.0,1
+ Saint-Laurent,2,5 less,549000.0,1
+ Saint-Laurent,3,30 more,424900.0,1
+ Saint-Louis,-1,10 less,600000.0,1
+ Saint-Louis,-1,30 less,349000.0,1
+ Saint-Louis,2,20 less,689000.0,1
+ Saint-Louis,2,30 more,395000.0,1
+ Saint-Louis,3,30 more,544000.0,2
+ Saint-Léonard,2,10 less,439000.0,1
+ Saint-Léonard,3,20 less,749000.0,1
+ Saint-Michel,2,20 less,199000.0,1
+ Saint-Simon,-1,30 more,399999.0,1
+ Saint-Simon,4,30 more,709000.0,1
+ Saint-Sulpice,2,5 less,329000.0,1
+ Saint-Édouard,-1,30 more,289000.0,1
+ Saint-Édouard,2,10 less,707000.0,2
+ Saint-Édouard,2,30 more,429000.0,1
+ Saint-Édouard,3,30 more,593500.0,6
+ Sainte-Anne-de-Bellevue,3,30 less,539000.0,1
+ Sainte-Anne-de-Bellevue,4,30 less,550000.0,1
+ Sainte-Lucie,3,10 less,350000.0,1
+ Sainte-Marie,-1,30 less,299000.0,1
+ Sainte-Marie,-1,30 more,299600.0,3
+ Sainte-Marie,-1,5 less,390750.0,4
+ Sainte-Marie,2,10 less,473950.0,2
+ Sainte-Marie,2,20 less,559000.0,1
+ Sainte-Marie,2,30 less,365000.0,1
+ Sainte-Marie,2,30 more,354000.0,2
+ Sainte-Marie,2,5 less,482000.0,1
+ Sainte-Marie,3,30 more,429000.0,1
+ Sault-Saint-Louis,-1,30 less,244500.0,2
+ Sault-Saint-Louis,-1,30 more,170000.0,1
+ Sault-Saint-Louis,2,20 less,424000.0,2
+ Sault-Saint-Louis,2,30 less,369000.0,2
+ Sault-Saint-Louis,3,20 less,469000.0,1
+ Sault-Saint-Louis,3,30 less,499000.0,1
+ Sault-Saint-Louis,3,30 more,439000.0,2
+ Sault-Saint-Louis,3,5 less,500000.0,1
+ Sault-aux-Récollets,-1,20 less,209900.0,1
+ Savane,-1,5 less,348475.0,4
+ Savane,2,10 less,411000.0,3
+ Savane,2,5 less,536000.0,3
+ Savane,3,10 less,560600.0,3
+ Savane,3,5 less,738000.0,1
+ Snowdon,-1,30 more,368170.5,2
+ Snowdon,2,10 less,795000.0,1
+ Snowdon,2,30 more,481500.0,2
+ Snowdon,2,5 less,379000.0,1
+ Snowdon,3,30 more,762000.0,2
+ Snowdon,4,30 more,577000.0,2
+ Technopôle Angus,-1,5 less,309000.0,1
+ Tétraultville,3,30 more,449900.0,1
+ Upper Lachine,2,30 more,289000.0,1
+ Upper Lachine,2,5 less,399000.0,1
+ Upper Lachine,3,30 more,449000.0,1
+ Upper Lachine,6,30 more,499000.0,1
+ Verdun,-1,30 more,294500.0,2
+ Verdun,2,30 more,400000.0,1
+ Verdun,3,30 more,692333.3333333334,3
+ Verdun,4,30 more,608500.0,1
+ Verdun-Centre,-1,5 less,299900.0,1
+ Verdun-Centre,2,30 more,457666.6666666667,3
+ Verdun-Centre,3,10 less,637666.6666666666,3
+ Verdun-Centre,3,20 less,525000.0,1
+ Verdun-Centre,3,30 more,439000.0,1
+ Verdun-Centre,3,5 less,809000.0,2
+ Vieux-Lachine,-1,10 less,241000.0,3
+ Vieux-Lachine,-1,30 more,269450.0,2
+ Vieux-Lachine,2,10 less,374499.0,2
+ Vieux-Lachine,2,30 more,381577.77777777775,9
+ Vieux-Lachine,3,30 more,517900.0,1
+ Vieux-Montréal,-1,10 less,375750.0,4
+ Vieux-Montréal,-1,20 less,428357.14285714284,7
+ Vieux-Montréal,-1,30 less,499000.0,1
+ Vieux-Montréal,-1,30 more,591333.3333333334,3
+ Vieux-Montréal,2,10 less,569000.0,1
+ Vieux-Montréal,2,20 less,607666.6666666666,9
+ Vieux-Montréal,2,30 more,1312428.5714285714,7
+ Vieux-Montréal,3,20 less,1123333.3333333333,3
+ Vieux-Montréal,3,30 more,1166666.6666666667,3
+ Vieux-Montréal,4,20 less,4269500.0,2
+ Vieux-Montréal,4,30 less,1149000.0,1
+ Vieux-Montréal,5,30 more,1250000.0,1
+ Vieux-Rosemont,-1,30 more,325000.0,1
+ Vieux-Rosemont,2,30 more,449000.0,1
+ Village de Pointe-Claire,3,20 less,885000.0,1
+ Ville-Marie,-1,10 less,365000.0,1
+ Ville-Marie,-1,30 more,349900.0,1
+ Ville-Marie,-1,5 less,559000.0,1
+ Ville-Marie,2,10 less,702542.8571428572,7
+ Ville-Marie,2,20 less,619995.0,1
+ Ville-Marie,2,30 less,395000.0,1
+ Ville-Marie,2,30 more,500000.0,1
+ Ville-Marie,2,5 less,539000.0,1
+ Ville-Émard,-1,10 less,390500.0,2
+ Ville-Émard,2,30 more,516333.3333333333,3
+ Ville-Émard,2,5 less,412000.0,2
+ Ville-Émard,3,5 less,539000.0,1
+ Westmount,-1,30 more,557000.0,2
+ Westmount,2,5 less,1037000.0,2
+ Westmount,3,30 more,1889000.0,2
+ Westmount,3,5 less,2333200.0,2
+ Édouard-Montpetit,-1,10 less,320750.0,4
+ Édouard-Montpetit,2,10 less,595000.0,1
+ Édouard-Montpetit,2,30 more,399000.0,1
+ Étienne-Desmarteau,2,30 more,324900.0,1
+ Étienne-Desmarteau,4,30 more,549000.0,1
+ Île-des-Sœurs,-1,10 less,511750.0,2
+ Île-des-Sœurs,-1,30 more,382166.5,6
+ Île-des-Sœurs,2,10 less,783685.7142857143,7
+ Île-des-Sœurs,2,20 less,727648.0,6
+ Île-des-Sœurs,2,30 more,546500.0,6
+ Île-des-Sœurs,2,5 less,690000.0,1
+ Île-des-Sœurs,3,10 less,953666.6666666666,3
+ Île-des-Sœurs,3,20 less,964666.6666666666,3
+ Île-des-Sœurs,3,30 more,862000.0,2
+ Île-des-Sœurs,4,30 more,599000.0,1
+3433,2,30 more,499000.0,1
+3599,3,30 more,699000.0,1
+4214,2,30 more,575000.0,1
+4226,2,30 more,575000.0,1
+4421a,2,30 more,449000.0,1

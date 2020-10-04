@@ -9,10 +9,13 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
 import csv
-
+import sys
 
 def get_driver():
     chrome_options = webdriver.ChromeOptions()
+    chrome_options.add_argument('--headless');
+    chrome_options.add_argument("--disable-extensions")
+    chrome_options.add_argument("----disable-dev-shm-usage")
     prefs = {"profile.managed_default_content_settings.images": 1,
              "profile.default_content_setting_values.notifications": 2,
              "profile.managed_default_content_settings.stylesheets": 2,
@@ -24,10 +27,7 @@ def get_driver():
     }
     chrome_options.add_experimental_option("prefs", prefs)
     capabilites = chrome_options.to_capabilities()
-    driver = webdriver.Remote(
-        desired_capabilities=capabilites,
-        command_executor='http://selenium-hub:4444/wd/hub'
-    )
+    driver = webdriver.Chrome(executable_path="./chromedriver")
     return driver
 
 
@@ -46,11 +46,12 @@ def download_image(url, directory='/images'):
     return image_path
 
 
-def write_to_csv(list_of_dict, output_file):
+def write_to_csv(list_of_dict, output_file, mode='w', header = True):
     keys = list_of_dict[0].keys()
-    with open(f'{output_file}.csv', 'w') as output_file:
+    with open(f'{output_file}.csv', mode) as output_file:
         dict_writer = csv.DictWriter(output_file, keys)
-        dict_writer.writeheader()
+        if header:
+            dict_writer.writeheader()
         dict_writer.writerows(list_of_dict)
 
 
@@ -163,46 +164,57 @@ def get_information(driver):
         details['listing_hyperlink'] = ''
         pass
     return details
-    
 
-driver = get_driver()
-url = "https://www.centris.ca/en"
-driver.get(url)
-time.sleep(5)
-try:
-    driver.find_element_by_xpath(
-        '//a/*[contains(text(),"Search")]'
-    ).click()
-except Exception:
-    pass
-try:
-    driver.find_element_by_xpath(
-        '//a[contains(text(),"Summary")]'
-    ).click()
-except Exception:
-    pass
-
-try:
-    page_number = int(
-        driver.find_element_by_xpath(
-            '//*[@class="pager-current"]'
-        ).text.split[' / '][1]
-    )
-except Exception:
-    pass
-
-post_list = []
-post_list.append(get_information(driver))
-
-for i in range(5):
+def parse_for(property_type, region, driver):
+    url = "https://www.centris.ca/en/%s~for-sale~%s?view=Thumbnail&uc=0"
+    driver.get(url%(property_type,region))
+    time.sleep(5)
     try:
         driver.find_element_by_xpath(
-            '//*[@class="next"]/a'
+            '//a/*[contains(text(),"Search")]'
         ).click()
-        time.sleep(5)
-        post_list.append(get_information(driver))
     except Exception:
-        continue
+        pass
+    try:
+        total_text = driver.find_element_by_xpath(
+            "//span[@class = 'resultCount']").get_attribute("innerHTML").replace(",", "")
+        print(total_text)
+        total_property = int(total_text)
+        print(total_property)
+        
+    except Exception:
+        pass
+    try:
+        driver.find_element_by_xpath(
+            '//a[contains(text(),"Summary")]'
+        ).click()
+    except Exception:
+        pass
 
-write_to_csv(post_list, 'output_file')
-print("the posts have been written to output_file.csv")
+    post_list = []
+    post_list.append(get_information(driver))
+
+    for i in range(total_property):
+        try:
+            driver.find_element_by_xpath(
+                '//*[@class="next"]/a'
+            ).click()
+            time.sleep(5)
+            post_list.append(get_information(driver))
+        except Exception:
+            continue
+    write_to_csv(post_list, 'raw/%s_%s_output_file'%(property_type,region))
+    print("finish %s %s"%(property_type, region))
+
+    return 0
+
+
+
+if __name__=="__main__":
+    driver = get_driver()
+    property_types =["commercial-properties","condos", "houses"]
+    property_types= ["condos"]
+    #regions = ["mont-royal","montreal-lasalle","montreal-lachine","dorval","beaconsfield","chateauguay","saint-lambert-monteregie"]
+    regions = ["mont-royal","montreal-lasalle","montreal-lachine",]
+    re = [parse_for(t, i, driver) for t in property_types for i in regions]
+    driver.close()
